@@ -11,7 +11,6 @@ import java.util.*;
  * 文本处理
  * 中文分词的包装
  * 其中封装了一个缓存器，防止重复的分词
- *
  * @author <a href="mailto:letcheng@ruyuapp.com">letcheng</a>
  * @version create at 2016年3月29日 20:04
  */
